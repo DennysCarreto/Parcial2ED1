@@ -1,0 +1,88 @@
+Preorden:
+¿Es un ser vivo?
+¿Es un animal?
+¿Es un mamifero?
+gato
+perro
+¿Es un ave?
+aguila
+loro
+¿Es un reptil?
+serpiente
+cocodrilo
+¿Es un insecto?
+mariposa
+abeja
+no
+¿Es una planta?
+rosa
+arbol
+no
+¿Es un personaje?
+¿Es un superhéroe?
+Iron Man
+Capitan America
+¿Es un personaje de cuentos?
+Caperucita Roja
+Cenicienta
+auto
+computadora
+
+Inorden:
+¿Es un mamifero?
+gato
+perro
+¿Es un animal?
+¿Es un ave?
+aguila
+loro
+¿Es un reptil?
+serpiente
+cocodrilo
+¿Es un insecto?
+mariposa
+abeja
+¿Es un ser vivo?
+¿Es una planta?
+rosa
+arbol
+no
+¿Es un personaje?
+¿Es un superhéroe?
+Iron Man
+Capitan America
+¿Es un personaje de cuentos?
+Caperucita Roja
+Cenicienta
+auto
+computadora
+
+Postorden:
+gato
+perro
+¿Es un mamifero?
+aguila
+loro
+¿Es un ave?
+serpiente
+cocodrilo
+¿Es un reptil?
+mariposa
+abeja
+¿Es un insecto?
+¿Es un animal?
+rosa
+arbol
+¿Es una planta?
+¿Es un ser vivo?
+no
+Iron Man
+Capitán América
+¿Es un superhéroe?
+Caperucita Roja
+Cenicienta
+¿Es un personaje de cuentos?
+¿Es un personaje?
+no
+auto
+computadora
